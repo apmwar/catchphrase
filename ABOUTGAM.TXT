@@ -1,3 +1,0 @@
-Catchphrase is a project brought to life by the minds of two teen programmers.
-After many hours of coding and compiling (and a few tears shed), we are proud
-to have you, the user, play this game. We sincerely hope you enjoy the game.
