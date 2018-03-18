@@ -1,4 +1,13 @@
-# catchphrase
+_In this file:_
+
+1. [About Catchphrase](https://github.com/halfling9/catchphrase#about-catchphrase)
+2. [How To Play](https://github.com/halfling9/catchphrase#how-to-play)
+3. [Gameplay](https://github.com/halfling9/catchphrase#gameplay)
+   + [Scoring Points](https://github.com/halfling9/catchphrase#scoring-points)
+4. [Scope](https://github.com/halfling9/catchphrase#scope)
+5. [Limitations](https://github.com/halfling9/catchphrase#limitations)
+
+# About Catchphrase
 Catchphrase is a grid game based off of 2048 made purely out of Turbo C++ (including the graphics libraries) as a Highschool coding Project.
 
 <img src="https://github.com/halfling9/catchphrase/blob/master/outputs/Screenshot%20(24).png?raw=true" />
@@ -21,7 +30,7 @@ An _A_ tile can be merged with another _A_ tile to get a _B_ tile. Similarly, a 
 - The player uses the keys W, A, S, D to move the entire grid around.
 
 
-## Points
+### Scoring Points
 
 Each collision leads to some points being accumulated. For every _B_ tile formed, the player earns 2 points. For a _C_ tile he earns 4 points, _D_ tile he earns 8 and so on with the subsequent powers of 2.
 
