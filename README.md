@@ -4,4 +4,9 @@ Catchphrase is a grid game based off of 2048 made purely out of Turbo C++ (inclu
 
 # How To Play
 
-The game is pretty straightforward. You are given a grid and you need to merge tiles until the blanks in the phrase are completed. An A tile can be merged with another A tile to get a B tile. Similarly, a B tile merges with another B tile to get a C tile and so on.
+The game is pretty straightforward. 
+
+__OBJECTIVE: You are given a 4x4 grid and you need to merge tiles until the blanks in the phrase are completed.__
+
+An _A_ tile can be merged with another _A_ tile to get a _B_ tile. Similarly, a _B_ tile merges with another _B_ tile to get a _C_ tile and so on.
+
