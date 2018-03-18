@@ -1,3 +1,0 @@
-The objective of the game is to collect all the missing letters from the given
-phrase. In order to do so, move the tiles around by pressing the W, A, S or D
-keys. Two tiles which collide will form an entirely new tile. Happy gaming!
